@@ -97,7 +97,8 @@ int main()
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/58a28125-64a2-4bc7-9e78-8e3d034544d5)
+![image](https://github.com/user-attachments/assets/51c9eed2-e417-4df0-ab95-2a96444d4cce)
+
 
 
 
